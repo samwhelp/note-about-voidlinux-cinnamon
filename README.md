@@ -77,15 +77,11 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Cinnamon 探索筆記](https://samwhelp.github.io/note-about-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-cinnamon) |
-| [Pardus Cinnamon 探索筆記](https://samwhelp.github.io/note-about-pardus-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-pardus-cinnamon) |
 | [Debian Cinnamon 探索筆記](https://samwhelp.github.io/note-about-debian-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-debian-cinnamon) |
-| [MxLinux Cinnamon 探索筆記](https://samwhelp.github.io/note-about-mxlinux-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-cinnamon) |
-| [Xubuntu 探索筆記](https://samwhelp.github.io/note-about-xubuntu/) | [GitHub](https://github.com/samwhelp/note-about-xubuntu) |
+| [Ubuntu Cinnamon 探索筆記](https://samwhelp.github.io/note-about-ubuntu-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-cinnamon) |
 | [LinuxMint Cinnamon 探索筆記](https://samwhelp.github.io/note-about-linuxmint-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-cinnamon) |
 | [Fedora Cinnamon 探索筆記](https://samwhelp.github.io/note-about-fedora-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-fedora-cinnamon) |
 | [Archlinux Cinnamon 探索筆記](https://samwhelp.github.io/note-about-archlinux-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-cinnamon) |
-| [Manjaro Cinnamon 探索筆記](https://samwhelp.github.io/note-about-manjaro-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-cinnamon) |
-| [Solus Cinnamon 探索筆記](https://samwhelp.github.io/note-about-solus-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-solus-cinnamon) |
 
 
 
